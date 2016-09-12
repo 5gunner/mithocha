@@ -1,7 +1,0 @@
-# robotstxt.org
-
-User-agent: *
-Disallow: /config/
-Disallow: /craft/
-Disallow: /plugins/
-Disallow: /templates/
